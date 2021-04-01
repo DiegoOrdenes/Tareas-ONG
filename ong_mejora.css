@@ -1,0 +1,91 @@
+body {
+    margin: 0px 70px 0px 200px;
+    background-color: #070707;
+}
+
+ul {
+    list-style-type: none;
+    /*borrar viñetas*/
+    margin: 0px 0px 0px -200px;
+    padding: 0px;
+}
+
+li a:link,
+a:visited {
+    text-decoration: none;
+    /*borrar subrayado*/
+    color: #f4faa1;
+    font-family: Georgia, times;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.perros_gatos:hover {
+    background-color: #756565;
+}
+
+.perros_gatos {
+    display: left;
+    /*barra de navegación horizontal*/
+    padding: 8px;
+    width: 100px;
+    margin: -5px;
+    background-color: #070707;
+}
+
+#div1 {
+    background-color: #f8f7a8;
+}
+
+
+/*            TITULOS          */
+
+.titulos {
+    text-align: center;
+    padding: 80px 40px 5px 10px;
+    margin: 0px;
+    font-size: 30px;
+}
+
+
+/*          PARRAFOS          */
+
+.parrafos {
+    text-align: center;
+    padding: 5px 200px 65px 160px;
+    margin: 0px;
+}
+
+
+/*         SECCIONES          */
+
+#section1 {
+    background-color: aliceblue;
+    margin: 0px 0px -290px 0px;
+}
+
+#section2 {
+    background-color: #6fe1f0;
+}
+
+#section3 {
+    background-color: #e5ee6f;
+}
+
+#section4 {
+    background-color: #f39034;
+}
+
+#section5 {
+    background-color: #f83535;
+}
+
+#div2 {
+    margin: 0px 50px 0px -5px;
+    padding: 100px 30px 30px 30px;
+}
+
+#menu {
+    color: aliceblue;
+    font-size: 20px;
+}

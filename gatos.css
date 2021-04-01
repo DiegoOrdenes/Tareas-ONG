@@ -1,0 +1,23 @@
+body {
+    background-image: url(fondo.jpg);
+}
+
+#titulo1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#titulo2 {
+    font-size: 40px;
+    text-align: lefts;
+}
+
+#parrafo_gatos1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+#titulo4 {
+    font-family: cursive;
+    font-size: 35px;
+}
